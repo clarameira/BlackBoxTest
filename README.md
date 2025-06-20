@@ -16,14 +16,12 @@ Por fim, a pesquisa envolve a análise de diversas formas de técnicas de teste 
 
 ## ✏️ Método Científico
 
-O resultado da presente pesquisa fundamenta-se em 5 etapas, sendo elas:
+O resultado da presente pesquisa fundamenta-se em 3 etapas, sendo elas:
 
 - [x] Levantamento bibliográfico
-- [x] Desenvolvimento dos Casos de Teste
-- [x] Análise do uso das técnicas de Teste
-- [x] Coleta de informações com testadores
-- [x] Feedback Final
-
+- [x] Geração dos Casos de Teste
+- [x] Aplicação das Técnicas de Teste Caixa Preta
+- [x] Resultados e Discussões
 ------------------------
 
 ## 👨‍👧‍👧 Membros
