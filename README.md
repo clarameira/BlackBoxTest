@@ -27,10 +27,8 @@ O resultado da presente pesquisa fundamenta-se em 5 etapas, sendo elas:
 ------------------------
 
 ## 👨‍👧‍👧 Membros
-Coordenador: [Alysson Filgueira Milanez](https://github.com/alyssonfm) </br>
-Membro: [Geísa Morais Gabriel](https://github.com/Geisa-mg) </br>
-Membro: [Lívia Beatriz Maia de Lima](https://github.com/liviabeatrizml) </br>
-Membro: [Maria Clara de Mederiros Meira](https://github.com/clarameira) </br>
+Orientador: [Alysson Filgueira Milanez](https://github.com/alyssonfm) </br>
+Discente: [Maria Clara de Mederiros Meira](https://github.com/clarameira) </br>
 
 ------------------------
 
