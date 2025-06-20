@@ -1,6 +1,6 @@
 # Um Panorama das Técnicas de Teste Caixa Preta para a Detecção de Falhas de Software       
 
-> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Um Panorama das Abordagens de Testes Caixa Preta".           
+> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Um Panorama das Técnicas de Teste Caixa Preta para a Detecção de Falhas de Software".           
 
 ## 📋 Descrição e Objetivos         
 
