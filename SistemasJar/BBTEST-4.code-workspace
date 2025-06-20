@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../PALINDROMO"
+		},
+		{
+			"path": "../../VERIFICASENHA"
+		},
+		{
+			"path": "../../RESERVAS"
+		},
+		{
+			"path": "../../VERIFICAEMAIL"
+		},
+		{
+			"path": "../../BibliotecaClass"
+		},
+		{
+			"path": "../../MatrizClass"
+		},
+		{
+			"path": "../../AGENDAPROJECT"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
