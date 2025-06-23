@@ -21,7 +21,7 @@ O resultado da presente pesquisa fundamenta-se em 3 etapas, sendo elas:
 - [x] Levantamento bibliográfico
 - [x] Geração dos Casos de Teste
 - [x] Aplicação das Técnicas de Teste Caixa Preta
-- [x] Resultados e Discussões
+
 ------------------------
 
 ## 👨‍👧‍👧 Membros
